@@ -84,7 +84,7 @@ const Projects = () => {
       image: portafolioImg,
       tech: ['HTML', 'CSS', 'JavaScript', 'React'],
       category: 'Frontend',
-      github: 'https://github.com/JPLopez23/Portafolio.git',
+      github: 'https://github.com/JPLopez23/mi-portafolio.git',
       demo: '#',
       featured: true,
       stats: { stars: 0, forks: 0, views: 0 }
